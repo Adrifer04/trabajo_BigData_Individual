@@ -12,7 +12,7 @@ La página web de la asignatura puede verse aquí: <https://perezp44.github.io/i
 <!-- En la linea de abajo HAS de SUSTITUIR 
 "perezp44" por tu usuario de Github-->
 La versión final del trabajo puede visualizarse 
-en: <https://[adrifer04.github.io/trabajo_BigData_Individual/]>. 
+en: <https://adrifer04.github.io/trabajo_BigData_Individual/>. 
 
 
 <!--  -->
