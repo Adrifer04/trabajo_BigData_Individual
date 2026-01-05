@@ -12,11 +12,10 @@ La página web de la asignatura puede verse aquí: <https://perezp44.github.io/i
 <!-- En la linea de abajo HAS de SUSTITUIR 
 "perezp44" por tu usuario de Github-->
 La versión final del trabajo puede visualizarse 
-en: <https://perezp44.github.io/trabajo_BigData_individual/>. 
+en: <https://Adrifer04.github.io/trabajo_BigData_individual/>. 
 
 
-<!-- Abajo podéis escribir lo que queráis, igual un resumen del trabajo, o ..., o ...
-pero al menos, tenéis que poner el título del trabajo y tu nombre -->
+<!-- Hola, soy AdrianFernández y s presento mi trabajo individual de la asignatura BigData sobre como España ganó el mundial del 2010 -->
 
 El autor del trabajo soy yo,  Manuel Andorra Grande (macogaaaaxxx@alumni.uv.es), .....
 
